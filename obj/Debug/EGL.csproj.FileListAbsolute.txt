@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.Form1.resources
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.Properties.Resources.resources
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EGL\bin\Debug\EGL.exe.config
+C:\Users\User\source\repos\EGL\bin\Debug\EGL.exe
+C:\Users\User\source\repos\EGL\bin\Debug\EGL.pdb
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.exe
+C:\Users\User\source\repos\EGL\obj\Debug\EGL.pdb
